@@ -11,6 +11,7 @@ env:
   #- DB=derby
   - DB=h2
   - DB=hsqldb
+  - DB=sqlanywhere
   - DB=jndi
   - DB=jdbc
 gemfile:
